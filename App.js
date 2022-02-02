@@ -12,7 +12,7 @@ export default function App() {
       </AuthProvider>
     </NavigationContainer>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
